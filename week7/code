@@ -1,0 +1,3 @@
+#아 슬퍼
+#카메라 캡처하는 코드
+rosrun school_classes camera_capture.py
